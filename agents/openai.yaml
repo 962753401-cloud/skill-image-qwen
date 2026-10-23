@@ -1,0 +1,8 @@
+interface:
+  display_name: "图片生成 (skill-image-qwen)"
+  short_description: "使用千问 Qwen-Image-3.0 生成或编辑各类图片"
+  brand_color: "#615CED"
+  default_prompt: "用 $skill-image-qwen 生成一张图片"
+
+policy:
+  allow_implicit_invocation: true
