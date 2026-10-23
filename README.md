@@ -1,5 +1,7 @@
 # skill-image-qwen
 
+仓库地址：https://github.com/962753401-cloud/skill-image-qwen
+
 一个面向 Codex 的图片生成技能，通过阿里云百炼 Qwen-Image-3.0 完成文生图和图生图编辑。
 脚本仅使用 Python 标准库，不依赖第三方包。
 
@@ -61,7 +63,7 @@ python scripts/generate_image.py --help
 如果已经安装，则更新到仓库最新内容。安装完成后检查目录结构、SKILL.md frontmatter、脚本语法，
 并运行本地三阶段门禁测试，不要调用真实付费生图接口。不要在回复、日志或文件中显示任何账号、
 密钥或密码。最后报告安装路径、检查结果、可用状态和未执行项。
-技能地址：当前 skill-image-qwen 仓库地址
+技能地址：https://github.com/962753401-cloud/skill-image-qwen
 ```
 
 ## 测试
