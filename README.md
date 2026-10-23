@@ -85,6 +85,10 @@ python -m unittest discover -s tests -v
 └── tests/test_generate_image.py
 ```
 
+## 相关技能
+
+- [skill-ds-websearch](https://github.com/962753401-cloud/skill-ds-websearch)
+
 ## License
 
 [MIT](LICENSE)
